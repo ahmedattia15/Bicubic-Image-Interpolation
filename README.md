@@ -25,5 +25,5 @@ The algorithm is contained within 3sk3_project1.py. There are already two images
 python 3sk3_project1.py
 ```
 
-The function will take some time to finish but progress will be outputted to the screen and the code executes.
+The function will take some time to finish but progress will be outputted to the screen as the code executes.
 
