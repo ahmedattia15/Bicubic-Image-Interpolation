@@ -10,7 +10,7 @@ The following dependencies are required to run the file:
 - numpy
 - PIL
 
-## Dependency Installtion
+## Dependency Installation
 
 Open Terminal or Command Prompt and run the following code.
 
