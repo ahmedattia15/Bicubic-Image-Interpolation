@@ -1,6 +1,8 @@
 # COMPENG 3SK3 - Project 1: Bicubic Image Interpolation
 Created By: Ahmed Attia
+
 Student Number: 400080812
+
 MacID: abdela11
 
 The following dependencies are required to run the file:
